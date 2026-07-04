@@ -11,7 +11,7 @@ CRITICAL ATS STANDARDS:
 4. KEYWORD DENSITY: Identify the core industry domain (e.g., Frontend Engineering, Product Management, Account Sales) and weave high-value keywords naturally throughout the text.
 5. NO EMBEDDED GRAPHICS: Never include emojis, stars, or textual icons inside the JSON string values. The application's UI handles the layout decoration
 6. TIMELINES: Standardize timelines to "Month Year - Month Year" (e.g., "Jan 2021 - Present") or "Graduated: Month Year"
-';
+`;
 
 export const SYSTEM_PROMPTS: Record<string, SystemPromptConfig> = {
   plain: {
